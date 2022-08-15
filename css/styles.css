@@ -75,7 +75,7 @@ body {
     letter-spacing: 0.02em;
     color: #757575;
 }
-
+.menu_link:active
 .menu_link:hover,
 .contact_link:hover,
 .menu_link:focus,
